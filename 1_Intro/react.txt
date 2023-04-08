@@ -1,0 +1,24 @@
+Início 07/04/2023
+
+O que é REACT?
+
+- É uma biblioteca JavaScript para desenvolvimento de aplicações front-end.
+- Estas aplicações são chamadas de SPA (Single page application).
+- A arquitetura do React é baseada em componentes.
+- Pode ser inserido em uma aplicação ou podemos criar a aplicação apenas com React.
+- É mantido pelo Facebbok. 
+
+Hello World em React
+
+- Para criar as nossas aplicações em react vamos utilizar um executor de scripts do node, que é o NPX.
+- Com o comando: npx create-react-app <nome> temos uma nova aplicação sendo gerada.
+- Podemos iniciar a aplicação com o npm start.
+
+Estrutura baseada
+
+- Há algumas pastas e arquivos chaves para o desenvolvimento em React.
+- node-modules: Onde as dependências do projeto ficam.
+- public: Assets estáticos e Html de inicialização.
+- src: Onde vamos programar as nossas apps.
+- src/index.js: Arquivo de inicialização do React.
+- src/App.js: Componente principal da aplicação.
